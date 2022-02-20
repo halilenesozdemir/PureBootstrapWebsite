@@ -1,4 +1,7 @@
-## CodeandCreate-Bootstrap
+## *CodeandCreate - Bootstrap :*
 This repository will contain 4 responsive site.
-First one is "Pure Bootstrap Website"
-![Pure Bootstrap Website/index.html](https://github.com/halilenesozdemir/CodeandCreate-Bootstrap/tree/main/Pure%20Bootstrap%20Website)
+1. **Site 1 :**
+   
+    - **Site :** Responsive and effective web-site using Bootstrap
+
+    - **Completed Task :** [patika_css_odev1](https://github.com/halilenesozdemir/PureBootstrapWebsite)
