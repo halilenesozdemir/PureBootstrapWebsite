@@ -4,4 +4,4 @@ This repository will contain 4 responsive site.
    
     - **Site :** Responsive and effective web-site using Bootstrap
 
-    - **Completed Task :** [patika_css_odev1](https://github.com/halilenesozdemir/PureBootstrapWebsite)
+    - **Completed Task :** [bootstrap_first_project](https://github.com/halilenesozdemir/PureBootstrapWebsite)
